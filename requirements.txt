@@ -1,0 +1,11 @@
+# Pinned-ish deps for the GPU run. Adjust CUDA/torch to the university machine.
+torch
+torchvision
+timm
+mambavision
+medmnist
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
